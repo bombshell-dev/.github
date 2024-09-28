@@ -1,7 +1,7 @@
 
-<picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="/profile/logo-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/profile/logo-black.svg">
+<picture align="center" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/logo/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/profile/logo/light.svg">
     <img align="center" width="100" height="100" alt="The Bombshell logo, a circle and an asterisk." src="/profile/logo.svg">
 </picture>
 
