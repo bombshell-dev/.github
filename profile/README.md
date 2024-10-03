@@ -6,9 +6,9 @@
 </picture>
 </div>
 
-<h3 align="center">Bombshell builds delightful JavaScript tooling</h3>
+<h3 align="center">Bombshell builds innovative terminal tooling for the JavaScript ecosystem.</h3>
 
-<p align="center">We're on a mission to simplify the <dfn id="cli"><abbr title="Command Line Interface">CLI</abbr></dfn> and help your projects <em><code>stdout</code></em> from the crowd</p>
+<p align="center">We're on a mission to breathe new life into historically underestimated text-based technologies—<code>CLIs</code> and <code>TUIs</code>.
 
 <div align="center">
 
