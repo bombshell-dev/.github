@@ -2,19 +2,40 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				.logo {
-                    color: #fff;
-                }
+				path {
+					fill: #fff;
+				}
+
 				@media (prefers-color-scheme: dark) {
-					.logo {
-                        color: #000;
-                    }
+					path {
+						fill: #000;
+					}
+				}
+
+				#asterisk {
+					transform-origin: 201px 131px;
+					animation: 2s spin infinite linear;
+				}
+
+				@keyframes spin {
+					from {
+						transform: rotate(0deg)
+					}
+
+					to {
+						transform: rotate(360deg)
+					}
 				}
 			</style>
 
-            <svg class="logo" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 256 256">
-                <path fill="currentColor" fill-rule="evenodd" d="M20.4727 127.768c0 35.712 29.056 64.768 64.768 64.768 35.7123 0 64.7683-29.056 64.7683-64.768S120.953 63 85.2407 63c-35.712 0-64.768 29.056-64.768 64.768ZM210.97 98.264h-19.2l2.752 24.128-22.08-10.112-5.952 18.24 23.872 4.8-16.384 17.984 15.424 11.136 11.968-20.992 11.968 20.992 15.424-11.136-16.384-17.984 23.872-4.8-5.952-18.24-22.08 10.112 2.752-24.128Z" clip-rule="evenodd"/>
-            </svg>
+			<svg class="logo" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 256 256">
+				<path id="circle"
+					  d="M20.4727 127.768C20.4727 163.48 49.5287 192.536 85.2407 192.536C120.953 192.536 150.009 163.48 150.009 127.768C150.009 92.056 120.953 63 85.2407 63C49.5287 63 20.4727 92.056 20.4727 127.768Z"
+					  fill="#fff" />
+				<path id="asterisk"
+					  d="M191.77 98.264H210.97L208.218 122.392L230.298 112.28L236.25 130.52L212.378 135.32L228.762 153.304L213.338 164.44L201.37 143.448L189.402 164.44L173.978 153.304L190.362 135.32L166.49 130.52L172.442 112.28L194.522 122.392L191.77 98.264Z"
+					  fill="#fff" />
+			</svg>
 		</div>
 	</foreignObject>
 </svg>
