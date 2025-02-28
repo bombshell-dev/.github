@@ -4,7 +4,7 @@ Members are listed by role, in alphabetical order by handle. Members are free to
 
 | Name                   | Role       | GitHub                                                 |
 | ---------------------- | ---------- | ------------------------------------------------------ |
-| Nate Moore             | Steward    | [`@natemoo-re`](https://github.com/natemoo-re)         |
+| Nate Moore             | Core    | [`@natemoo-re`](https://github.com/natemoo-re)         |
 | Adam Matthiesen        | Maintainer | [`@Adammatthiesen`](https://github.com/Adammatthiesen) |
 | AmirHossein Sakhravi   | Maintainer | [`@AmirSa12`](https://github.com/AmirSa12)             |
 | Mohammad Bagher Abiyat | Maintainer | [`@Aaslemammad`](https://github.com/Aslemammad)        |
