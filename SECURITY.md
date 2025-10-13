@@ -1,15 +1,32 @@
-Thanks for helping make Bombshell safe for everyone.
+# Security Policy
 
-# Security
-
-Bombshell takes the security of our software seriously, including all of the open source code repositories managed through [this GitHub organization](https://github.com/bombshelldev).
+We take the security of Bombshell software seriously. We appreciate responsible disclosure and collaboration from the community.
 
 ## Reporting a Vulnerability
 
-<ins>**If you think you've found a security issue, please DO NOT report, discuss, or describe it on Discord or GitHub.**<ins>
+If you believe you’ve found a security issue in Bombshell software, please **do not open a public issue**.
 
-**All security-related issues, concerns, and problems must be reported via email to: security@bomb.sh**
+Instead, email us at **[security@bomb.sh](mailto:security@bomb.sh)** and include:
 
-Please include everything necessary to reproduce the problem when sending over information, including an example repository on StackBlitz or GitHub. Please don't add explicit details about the security issue you are reporting in any of the repository's contents.
+- A clear description of the issue  
+- Steps to reproduce (if possible)  
+- Any proof of concept or affected components  
+- Your preferred contact method
 
-**_This is detrimental to the safety of all Bombshell users. No exceptions._**
+We’ll acknowledge receipt within a few business days and keep you informed as we investigate.
+
+## Our Commitment
+
+- We’ll respond quickly and handle your report confidentially.  
+- We won’t take legal action against good-faith research.  
+- We’ll verify and fix confirmed issues promptly.  
+- We’ll publicly acknowledge your contribution if you’d like.  
+
+## Scope
+
+This policy covers Bombshell-maintained projects and infrastructure, including:
+
+- Code in repositories under the **[`bombshell-dev`](https://github.com/bombshell-dev)** organization  
+- The **`bomb.sh`** domain
+
+If the issue affects a third-party dependency, please report it directly to that project’s maintainers.
