@@ -119,7 +119,7 @@ Not every Maintainer will reach this level, and that's okay! Maintainers still h
 
 The **Organizer** role exists to resolve disputes, keep the project accountable, and break ties when needed.
 
-This is not a "leader" role&mdash;the Organizer is a facilitator and tiebreaker. The role can be held by a single person or a small group, and is filled when the need arises.
+This is not a "leader" role&mdash;the Organizer is a facilitator and tiebreaker. The role can be held by a single person and is revaluated on an annual basis.
 
 #### Responsibilities
 
