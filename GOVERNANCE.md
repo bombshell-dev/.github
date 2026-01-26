@@ -107,7 +107,7 @@ Not every Maintainer will reach this level, and that's okay! Maintainers still h
 - All of the responsibilities of Maintainer, plus...
 - Ownership over specific part(s) of the project
 - Ownership over the long-term health and success of Bombshell
-- Leadership as a role-model to other maintainers and community members
+- Leadership as a role model to other maintainers and community members
 
 #### Nomination
 
