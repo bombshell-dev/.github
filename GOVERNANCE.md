@@ -195,12 +195,18 @@ Any Maintainer (and above) can self-nominate by messaging the maintainers on Dis
 
 **Alumni** is a designation for Maintainers+ who have stepped away from the project and no longer contribute regularly.
 
+Life is fluid—it is natural that involvment shifts as priorities do. There's never any shame in stepping back, so the Alumni role exists for a few practical reasons:
+
+- **Security:** Inactive accounts with administrative access pose a risk if compromised. Moving to Alumni reduces that surface area.
+- **Funding:** When resources are allocated among contributors, it's simpler to distribute them among active members.
+- **Ecosystem health:** Keeping decision-making power with people who are actively engaged helps the project stay responsive.
+
 #### Becoming Alumni
 
 You can become Alumni in two ways:
 
 - **Voluntary:** Resign from your role at any time by notifying Core. No questions asked, no hard feelings.
-- **Inactivity:** After an extended period of inactivity, Core may reach out and offer Alumni status.
+- **Inactivity:** After an extended period of inactivity, Core will reach out. If there's no response within 30 days, the contributor moves to Alumni status. This keeps the process fair for everyone while ensuring active maintenance isn't blocked.
 
 #### Privileges
 
