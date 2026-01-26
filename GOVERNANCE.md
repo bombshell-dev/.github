@@ -1,49 +1,37 @@
 # Governance
 
-This document outlines the roles and processes that govern all Bombshell projects. As a volunteer-based, community-run open source project, we value transparency in the pursuit of building a high-trust organization.
-
-We bias toward clear roles and written decisions over invisible social hierarchies. Progress shouldn't depend on proximity to a small group of core contributors.
+This document outlines the roles and processes that govern Bombshell projects. We favor clear roles and written decisions over invisible hierarchies—progress shouldn't depend on proximity to a small group of insiders.
 
 > [!IMPORTANT]
 > All community members must follow the [Code of Conduct (CoC)](CODE_OF_CONDUCT.md). CoC violations are handled according to our [Moderation](#moderation) process.
 
 ## Get Involved
 
-**Anything that supports the Bombshell community is a valuable contribution!**
-
-Every contribution is meaningful. Whether you are writing code, fixing a typo, posting in [Discord](https://bomb.sh/chat), sharing on social media, reviewing a pull request, or writing about Bombshell on your personal blog&mdash;no contribution is too small!
-
-Everyone can become a Bombshell contributor! We strive to recognize all contributions that improve the health of our community.
+Every contribution matters—writing code, fixing typos, chatting in [Discord](https://bomb.sh/chat), sharing on social media, reviewing PRs, or blogging about Bombshell. We recognize all contributions that improve our community.
 
 ## Contributor Roles
 
-Each level of contribution to the Bombshell community comes with a specific set of privileges and responsibilities. These levels are referred to as **Contributor Roles**.
+Each role comes with specific privileges and responsibilities. Roles are available to **all members**—not just people who write code.
 
-Roles are available to **all members** of the Bombshell community and are not limited to "people who write code."
+We look for two things in contributors:
 
-The two most important things we look for in a contributor are:
+- **Being present**&mdash;showing up and participating.
+- **Being kind**&mdash;fostering welcoming communication in PRs, issues, Discord, and beyond.
 
-- **Being present**&mdash;the fact that you've decided to spend your valuable time contributing to our project is amazing! Thank you for being in this with us.
+Roles recognize contributions you've already made. If you wish to step back, you can—no questions asked. See [Alumni](#alumni) for details.
 
-- **Being kind**&mdash;you go above and beyond our [Code of Conduct](CODE_OF_CONDUCT.md) to foster welcoming, healthy communication in pull requests, issue discussions, Discord conversations, and interactions outside of our immediate ecosystem.
-
-Contributor roles are a _recognition of contributions you have already made_ to our community. If you ever wish to resign from your current role at any time, you are invited to do so&mdash;no questions asked and no hard feelings. See [Alumni](#alumni) for more information.
-
-In extreme cases, contributors who violate our [Code of Conduct](CODE_OF_CONDUCT.md) may have their role revoked at the discretion of the Core maintainers.
+Contributors who violate our [Code of Conduct](CODE_OF_CONDUCT.md) may have their role revoked.
 
 ### Contributor
 
-Have you done something to contribute to the health, success, or growth of Bombshell? **Congratulations, you are now officially recognized as a Bombshell Contributor!**
+Have you contributed to the health, success, or growth of Bombshell? You're a Contributor.
 
 #### Examples of contributions
 
-- **GitHub:** Submitting a merged pull request.
-- **GitHub:** Filing a detailed bug report.
-- **GitHub:** Updating documentation.
-- Helping people on GitHub, Discord, etc.
-- Answering questions on Stack Overflow, BlueSky, etc.
-- Blogging, Vlogging, Podcasting, and Livestreaming about Bombshell.
-- **This list is incomplete!** Similar contributions are also recognized.
+- Submitting a merged PR, filing a detailed bug report, or updating docs
+- Helping people on GitHub, Discord, Stack Overflow, BlueSky, etc.
+- Blogging, vlogging, podcasting, or livestreaming about Bombshell
+- Similar contributions are also recognized
 
 #### Privileges
 
@@ -52,17 +40,15 @@ Have you done something to contribute to the health, success, or growth of Bombs
 
 #### Responsibilities
 
-This role does not come with any additional responsibilities or commitment, but we hope you stick around and keep participating in our community!
+None required—but we hope you stick around!
 
 #### Nomination
 
-You may self-nominate by reaching out in Discord or opening an issue. Any existing contributor can also recognize your contributions and nominate you. No formal vote is required&mdash;the barrier to entry is intentionally low.
+Self-nominate via Discord or a GitHub issue, or any existing contributor can nominate you. No vote required—the barrier is intentionally low.
 
 ### Maintainer
 
-The **Maintainer** role is available to contributors who show up consistently and want to join the team in the long-term maintenance and growth of Bombshell.
-
-Maintainers are not required to write code! Some Maintainers spend most of their time in Discord, maintaining a healthy community there. Others work on documentation, support, or design.
+**Maintainers** show up consistently and are invested in the long-term health of Bombshell. Some focus on code, others on Discord, docs, support, or design.
 
 #### Privileges
 
@@ -90,9 +76,7 @@ Maintainers are not required to write code! Some Maintainers spend most of their
 
 ### Core
 
-The **Core** role is available to Maintainers who have a larger-than-usual impact on the Bombshell project and community. Core members are seen as leaders in the project and have significant influence on project direction.
-
-Not every Maintainer will reach this level, and that's okay! Maintainers still have significant responsibility and privileges within our community.
+**Core** members are Maintainers with outsized impact and significant influence on project direction. Not every Maintainer will reach this level, and that's okay.
 
 #### Privileges
 
@@ -104,10 +88,9 @@ Not every Maintainer will reach this level, and that's okay! Maintainers still h
 
 #### Responsibilities
 
-- All of the responsibilities of Maintainer, plus...
-- Ownership over specific part(s) of the project
-- Ownership over the long-term health and success of Bombshell
-- Leadership as a role model to other maintainers and community members
+- All responsibilities of Maintainer, plus...
+- Ownership over specific areas and the long-term health of the project
+- Leadership as a role model to other contributors
 
 #### Nomination
 
@@ -172,15 +155,11 @@ Proposals are written down, discussed publicly, and resolved in the open.
 
 ### Project Teams
 
-Besides our contributor roles described above, there are additional teams available that community members are welcome to join. Teams are a great way to organize around different projects and initiatives in our community.
-
-Getting involved with a team is a great way to start contributing to Bombshell!
+Beyond contributor roles, there are teams organized around specific projects and initiatives. Joining a team is a good way to start contributing.
 
 ### Moderator
 
-**Moderator** is a special role available to Maintainers+. While all maintainers are granted permissions to moderate for bad behavior across our community, a Moderator actively takes on this responsibility.
-
-Trivial tasks (like removing spam) can be acted on unilaterally by a Moderator. Other non-trivial tasks (like assisting with or resolving a Code of Conduct violation) should involve the entire Moderator team (and in some cases, Core).
+**Moderator** is available to Maintainers+ who actively take on moderation duties. Trivial tasks (removing spam) can be handled unilaterally; non-trivial issues (CoC violations) should involve the full Moderator team or Core.
 
 #### Privileges
 
@@ -195,7 +174,7 @@ Any Maintainer (and above) can self-nominate by messaging the maintainers on Dis
 
 **Alumni** is a designation for Maintainers+ who have stepped away from the project and no longer contribute regularly.
 
-Life is fluid—it is natural that involvment shifts as priorities do. There's never any shame in stepping back, so the Alumni role exists for a few practical reasons:
+Life is fluid—it's natural that involvement shifts as priorities do. There's never any shame in stepping back, so the Alumni role exists for a few practical reasons:
 
 - **Security:** Inactive accounts with administrative access pose a risk if compromised. Moving to Alumni reduces that surface area.
 - **Funding:** When resources are allocated among contributors, it's simpler to distribute them among active members.
@@ -217,22 +196,18 @@ Alumni are always welcome to return! Rejoining as an active contributor follows 
 
 ## Moderation
 
-Outlined below is the process for Code of Conduct violation reviews.
+How Code of Conduct violations are reviewed.
 
 ### Reporting
 
-Anyone may report a violation. Violations can be reported:
+Anyone may report a violation:
 
-- In private, via email to a Core member
-- In private, via direct message to a Core member on Discord
-- In public, via a GitHub comment (mentioning `@bombshell-dev/core`)
-- In public, via the project Discord server (mentioning `@mods`)
+- **Private:** Email or DM a Core member
+- **Public:** GitHub comment (`@bombshell-dev/core`) or Discord (`@mods`)
 
 ### Review
 
-If a report doesn't contain enough information, the reviewers will strive to obtain all relevant data before acting.
-
-The reviewers will then review the incident and determine:
+If a report lacks detail, reviewers will gather more information before acting. They will determine:
 
 - What happened
 - Whether this event constitutes a Code of Conduct violation
@@ -243,7 +218,7 @@ In the event of any conflict of interest, reviewers must recuse themselves.
 
 ### Resolution
 
-Responses will be determined by the reviewers on the basis of the information gathered. They may include:
+Responses are determined based on the information gathered and may include:
 
 - Taking no further action
 - Issuing a reprimand (private or public)
