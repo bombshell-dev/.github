@@ -1,6 +1,6 @@
 # Governance
 
-This document outlines the roles and processes which govern all Bombshell projects. As a volunteer-based, community-run open source project, we value transparency in the pursuit of building a high trust organization.
+This document outlines the roles and processes that govern all Bombshell projects. As a volunteer-based, community-run open source project, we value transparency in the pursuit of building a high-trust organization.
 
 We bias toward clear roles and written decisions over invisible social hierarchies. Progress shouldn't depend on proximity to a small group of core contributors.
 
