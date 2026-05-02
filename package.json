@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "packageManager": "pnpm@10.33.2",
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "dependencies": {
+    "sponsorkit": "^17.1.0"
+  }
+}
