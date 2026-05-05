@@ -1,4 +1,4 @@
-# Bombshell Settings
+# ●✱ Settings
 
 This repository contains GitHub-related configuration for the `bombshell-dev` GitHub organization.
 
