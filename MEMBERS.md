@@ -7,7 +7,9 @@ Members are listed by role, in alphabetical order by handle. Members are free to
 - James Garbutt [`@43081j`](https://github.com/43081j)
 - Mohammad Bagher Abiyat [`@Aslemammad`](https://github.com/Aslemammad)
 - AmirHossein Sakhravi [`@AmirSa12`](https://github.com/AmirSa12)
+- Charles Lowell [`@cowboyd`](https://github.com/cowboyd)
 - Paul Valladares [`@dreyfus92`](https://github.com/dreyfus92)
+- Jacob Bolda [`@jbolda`](https://github.com/jbolda)
 - Nate Moore [`@natemoo-re`](https://github.com/natemoo-re)
 
 ## Maintainers
