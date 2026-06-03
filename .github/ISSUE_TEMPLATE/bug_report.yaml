@@ -1,0 +1,81 @@
+name: "\U0001F41B Bug report"
+description: Create a report to help us improve
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: dropdown
+    id: package
+    attributes:
+      label: Package
+      description: Which package is this bug related to?
+      options:
+        - "@clack/core"
+        - "@clack/prompts"
+        - "@bomb.sh/tab"
+        - "@bomb.sh/args"
+        - "@bomb.sh/tools"
+        - "clink"
+    validations:
+      required: true
+  - type: input
+    id: package-version
+    attributes:
+      label: Package Version
+      description: What version of the package are you using? (e.g., v0.2.0)
+      placeholder: vX.Y.Z
+    validations:
+      required: true
+  - type: input
+    id: node-version
+    attributes:
+      label: Node.js Version
+      description: Run `node -v` in your terminal.
+      placeholder: v24.13.0
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: Operating System
+      placeholder: e.g. macOS, Windows, Linux
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: To Reproduce
+      description: |
+        Please provide a link to a minimal reproduction using [node.new](https://node.new/) and list the steps to reproduce the behavior below.
+      placeholder: |
+        Reproduction link:
+
+        Steps to reproduce:
+        1.
+        2.
+    validations:
+      required: true
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: Additional Information
+      description: If applicable, add screenshots or any other context to help explain your problem.
+    validations:
+      required: false
