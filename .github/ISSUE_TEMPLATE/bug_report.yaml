@@ -7,18 +7,12 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-  - type: dropdown
+  - type: input
     id: package
     attributes:
       label: Package
       description: Which package is this bug related to?
-      options:
-        - "@clack/core"
-        - "@clack/prompts"
-        - "@bomb.sh/tab"
-        - "@bomb.sh/args"
-        - "@bomb.sh/tools"
-        - "clink"
+      placeholder: e.g. @clack/core
     validations:
       required: true
   - type: input
