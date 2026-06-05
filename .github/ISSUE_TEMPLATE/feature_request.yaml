@@ -35,3 +35,10 @@ body:
       description: Add any other context, code examples, or screenshots about the feature request here.
     validations:
       required: false
+  - type: checkboxes
+    id: ai-disclosure
+    attributes:
+      label: AI assistance disclosure
+      options:
+        - label: This feature request was drafted with the assistance of an AI tool.
+          required: false
