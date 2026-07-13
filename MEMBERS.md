@@ -17,6 +17,7 @@ Members are listed by role, in alphabetical order by handle. Members are free to
 - Adam Matthiesen [`@Adammatthiesen`](https://github.com/Adammatthiesen)
 - Christian Preston [`@cpreston321`](https://github.com/cpreston321)
 - Roman [`@gameroman`](https://github.com/gameroman)
+- Ryan Rauh [`@rauhryan`](https://github.com/rauhryan)
 - Willow (GHOST) [@ghostdevv](https://github.com/ghostdevv)
 - Bogdan Chadkin [`@TrySound`](https://github.com/TrySound)
 - Yan [`@yanthomasdev`](https://github.com/yanthomasdev)
