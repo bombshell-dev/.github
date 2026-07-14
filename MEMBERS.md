@@ -2,6 +2,11 @@
 
 Members are listed by role, in alphabetical order by handle. Members are free to use the full name, GitHub handle, or any other nickname they wish to be addressed.
 
+## Admin
+
+- James Garbutt [`@43081j`](https://github.com/43081j)
+- Nate Moore [`@natemoo-re`](https://github.com/natemoo-re)
+
 ## Core
 
 - James Garbutt [`@43081j`](https://github.com/43081j)
