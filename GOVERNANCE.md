@@ -102,6 +102,8 @@ Self-nominate via Discord or a GitHub issue, or any existing contributor can nom
 
 The **Organizer** role exists to resolve disputes, keep the project accountable, and break ties when needed.
 
+This is not a "leader" role&mdash;the Organizer is a facilitator and tiebreaker. The role can be held by a single person and is reevaluated on an annual basis.
+
 #### Responsibilities
 
 - Resolve disputes that Core cannot reach consensus on
@@ -167,25 +169,6 @@ Beyond contributor roles, there are teams organized around specific projects and
 #### Nomination
 
 Any Maintainer (and above) can self-nominate by messaging the maintainers on Discord.
-
-### Admin
-
-**Admin** provides fallback operational access for GitHub org settings, Discord server settings, and app permissions when the Organizer is unreachable. The Organizer always holds Admin; up to 2–3 additional Core members may also hold it.
-
-Admin confers **no** special governance standing—no extra vote weight, dispute authority, or Organizer powers.
-
-#### Privileges
-
-- `@admin` role on [Discord](https://bomb.sh/chat)
-- GitHub organization admin access (org/repo settings and app permissions)
-- Discord server admin access needed to unblock operational settings
-
-#### Nomination
-
-- The Organizer holds Admin by default
-- Any Core member can nominate an additional Core member for Admin
-- Once nominated, existing Core members vote; simple majority approves
-- At most 2–3 Core members may hold Admin in addition to the Organizer
 
 ### Alumni
 
