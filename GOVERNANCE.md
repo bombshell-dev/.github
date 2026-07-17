@@ -172,7 +172,7 @@ Any Maintainer (and above) can self-nominate by messaging the maintainers on Dis
 
 ### Admin
 
-**Admin** provides fallback operational access for GitHub org settings, Discord server settings, and app permissions when the Organizer is unreachable. The Organizer always holds Admin; up to 2–3 additional Core members may also hold it.
+**Admin** provides fallback operational access for GitHub org settings, Discord server settings, and app permissions when the Organizer is unreachable. The Organizer always holds Admin; up to two additional Core members may also hold it.
 
 Admin confers **no** special governance standing—no extra vote weight, dispute authority, or Organizer powers.
 
