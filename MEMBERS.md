@@ -10,8 +10,8 @@ Members are listed by role, in alphabetical order by handle. Members are free to
 ## Core
 
 - James Garbutt [`@43081j`](https://github.com/43081j)
-- Mohammad Bagher Abiyat [`@Aslemammad`](https://github.com/Aslemammad)
 - AmirHossein Sakhravi [`@AmirSa12`](https://github.com/AmirSa12)
+- Mohammad Bagher Abiyat [`@Aslemammad`](https://github.com/Aslemammad)
 - Charles Lowell [`@cowboyd`](https://github.com/cowboyd)
 - Paul Valladares [`@dreyfus92`](https://github.com/dreyfus92)
 - Jacob Bolda [`@jbolda`](https://github.com/jbolda)
@@ -22,7 +22,8 @@ Members are listed by role, in alphabetical order by handle. Members are free to
 - Adam Matthiesen [`@Adammatthiesen`](https://github.com/Adammatthiesen)
 - Christian Preston [`@cpreston321`](https://github.com/cpreston321)
 - Roman [`@gameroman`](https://github.com/gameroman)
-- Ryan Rauh [`@rauhryan`](https://github.com/rauhryan)
 - Willow (GHOST) [@ghostdevv](https://github.com/ghostdevv)
+- Ryan Rauh [`@rauhryan`](https://github.com/rauhryan)
+- Felix Schneider [`@trueberryless`](https://github.com/trueberryless)
 - Bogdan Chadkin [`@TrySound`](https://github.com/TrySound)
 - Yan [`@yanthomasdev`](https://github.com/yanthomasdev)
